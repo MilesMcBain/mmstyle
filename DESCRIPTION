@@ -8,5 +8,7 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports: 
-    styler (>= 1.1.1)
+    grkstyle (>= 0.0.1)
 RoxygenNote: 6.1.1
+Remotes:  
+    gadenbuie/grkstyle
